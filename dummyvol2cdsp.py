@@ -1,6 +1,6 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
-# dummyvol2cdsp v0.1.0 - Forward Alsa dummy device volume to CamillaDSP
+# dummyvol2cdsp v0.1.1 - Forward Alsa dummy device volume to CamillaDSP
 # Copyright (c) 2022 Roderick van Domburg
 
 ##############################################################################
